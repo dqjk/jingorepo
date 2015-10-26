@@ -2,7 +2,7 @@
 # Configuration sample file for Jingo (YAML)
 application:
   title: DQJK
-  repository: 'blog'
+  repository: 'jingo'
   docSubdir: ''
   remote: 'origin'
   pushInterval: 30
